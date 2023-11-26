@@ -58,15 +58,15 @@
         "panthera": false,
         "astrobwt": false
     },
-    "donate-level": 1,
-    "donate-over-proxy": 1,
+    "donate-level": 0,
+    "donate-over-proxy": 0,
     "log-file": null,
     "pools": [
         {
             "algo": "rx/nevo",
             "coin": null,
-            "url": "nevo.kilopool.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "fastpool.xyz:10206",
+            "user": "Ne2b6pFGwzTMSYHbK99ubqZ9W1SfWUKBLV5WLN2fZD5GSa6fTcYuvDqH5acpmEdtMNZrMZuhXiCfBBftLMzBQVAh2uLJNq2LP",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
